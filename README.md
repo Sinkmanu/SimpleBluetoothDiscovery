@@ -23,6 +23,10 @@ Working
 	Blue$ 
 ```
 
+Requirements
+-------
+
+bluecove library (tested on bluecove-2.1.0)
 
 Author
 ------
